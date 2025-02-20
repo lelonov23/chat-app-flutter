@@ -26,7 +26,7 @@ A lightweight and simple chat application built using Flutter and Firebase.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/lelonov23/chat-app-flutter.git
+   git clone https://github.com/locturui/chat-app-flutter.git
    cd simple-chat-app
    ```
 
