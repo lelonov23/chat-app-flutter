@@ -9,6 +9,16 @@ A lightweight and simple chat application built using Flutter and Firebase.
 - Support for text messages
 - Responsive UI
 
+<img src="https://github.com/user-attachments/assets/808f5ebc-a48f-4873-8eb8-c92ff7bf4a41" alt="Search GIF" width="250">
+<img src="https://github.com/user-attachments/assets/95af98d0-0f32-4186-9362-dc7b4ec371b4" alt="Search GIF" width="250">
+<img src="https://github.com/user-attachments/assets/a3641146-b702-4c9f-9359-69c16977dd77" alt="Search GIF" width="250">
+<img src="https://github.com/user-attachments/assets/335cd790-81be-4e7e-82d4-9edc68ff47cd" alt="Search GIF" width="250">
+<img src="https://github.com/user-attachments/assets/36c3bfeb-36c7-4297-83c2-5de096b96aa2" alt="Search GIF" width="250">
+<img src="https://github.com/user-attachments/assets/6dbf4081-3e67-4fd3-a556-61d318723769" alt="Search GIF" width="250">
+<img src="https://github.com/user-attachments/assets/774c8cce-c340-4cbc-8c59-8a71c040961a" alt="Search GIF" width="250">
+<img src="https://github.com/user-attachments/assets/3ca8f23b-b1c0-4bfe-9f43-2ac877a2eb81" alt="Search GIF" width="250">
+
+
 ## Tech Stack
 
 - **Frontend**: Flutter (Dart)
